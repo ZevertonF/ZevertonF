@@ -83,7 +83,12 @@
   <img src="https://profile-counter.glitch.me/ZevertonF/count.svg?"  />
 </div>
 
+<h3 align="left">Suporte:</h3>
+<p> <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/evertonandh"> <img align=" left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/evertonandh" /></a>
+
 ###
+
+
 
 
 ###
