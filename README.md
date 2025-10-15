@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋</h1>
 
-<!-- Contador de Visitas -->
-
 <p align="center">
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DSEU-USERNAME-AQUI%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="contador de visitas do perfil" />
 </p>
